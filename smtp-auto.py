@@ -18,7 +18,7 @@ def send_mail(areceiver):
     # 收件人邮箱
     areceiver = areceiver
     # 抄送人邮箱
-    acc = 'blyat@qq.com'
+    acc = ''
     # 邮件主题
     asubject = '新年快乐！'
 
@@ -69,14 +69,14 @@ def send_mail(areceiver):
     # 发送邮件(日志生成在当前目录)
     try:
         server.sendmail(from_addr,areceiver.split(',') + acc.split(','), msg.as_string())
-        print(areceiver + "邮件发送成功")
+        print(areceiver_strip + "-----邮件发送成功")
         with open(r'记录.log', 'a+') as f:
-            f.write(areceiver_strip + "-----邮件发送成功------------------" + str(now_time) + '\n' + '\n')
+            f.write(areceiver_strip + "-----邮件发送成功------------------" + str(now_time) + '\n')
 
     except smtplib.SMTPException:
-        print(areceiver + "Error: 无法发送邮件")
+        print(areceiver_strip + "-----Error: 无法发送邮件")
         with open(r'记录.log', 'a') as f:
-            f.write(areceiver_strip + "-----Error: 无法发送邮件------------------" + str(now_time) + '\n' + '\n')
+            f.write(areceiver_strip + "-----Error: 无法发送邮件------------------" + str(now_time) + '\n')
     # 断开服务器链接
     '''server.quit()'''
 
