@@ -52,13 +52,13 @@ def send_mail_1(areceiver):
     <h1><font color="red"><b>迟到的新年快乐！</b></font></h1>
     <h1><font color="red"><b>Happy late New Year！</b></font></h1>
     <br>
-    <h3>    =>  <a href = 'https://www.opbe.top/newyear/'> buling </a>  <=    </h3>
+    <h3>    =>  <a href = 'https://www.prlrr.com/newyear/'> buling </a>  <=    </h3>
     <br>
-    <h3>    =>  <a href = 'https://www.opbe.top/wallpaper-API/'> Pictures of the API </a>  <=    </h3>
+    <h3>    =>  <a href = 'https://www.prlrr.com/wallpaper-API/'> Pictures of the API </a>  <=    </h3>
     <br>
     <p>活到老，学到老！！-Never r too old to learn!！！</p>
 
-    <p>知识就是力量-knowledge is power           =>   <a href = 'https://www.opbe.top/'>  Blog  </a>   <=  （IP+1）</p>
+    <p>知识就是力量-knowledge is power           =>   <a href = 'https://www.prlrr.com/'>  Blog  </a>   <=  （IP+1）</p>
     <br>
     <br>
     <p>于2月12日发送（可能存在网络延迟）</p>
@@ -127,13 +127,13 @@ def send_mail_2(areceiver_2):
     <h1><font color="red"><b>迟到的新年快乐！</b></font></h1>
     <h1><font color="red"><b>Happy late New Year！</b></font></h1>
     <br>
-    <h3>    =>  <a href = 'https://www.opbe.top/newyear/'> buling </a>  <=    </h3>
+    <h3>    =>  <a href = 'https://www.prlrr.com/newyear/'> buling </a>  <=    </h3>
     <br>
-    <h3>    =>  <a href = 'https://www.opbe.top/wallpaper-API/'> Pictures of the API </a>  <=    </h3>
+    <h3>    =>  <a href = 'https://www.prlrr.com/wallpaper-API/'> Pictures of the API </a>  <=    </h3>
     <br>
     <p>活到老，学到老！！-Never r too old to learn!！！</p>
 
-    <p>知识就是力量-knowledge is power           =>   <a href = 'https://www.opbe.top/'>  Blog  </a>   <=  （IP+1）</p>
+    <p>知识就是力量-knowledge is power           =>   <a href = 'https://www.prlrr.com/'>  Blog  </a>   <=  （IP+1）</p>
     <br>
     <br>
     <p>于2月12日发送（可能存在网络延迟）</p>
@@ -203,13 +203,13 @@ def send_mail_3(areceiver_3):
     <h1><font color="red"><b>迟到的新年快乐！</b></font></h1>
     <h1><font color="red"><b>Happy late New Year！</b></font></h1>
     <br>
-    <h3>    =>  <a href = 'https://www.opbe.top/newyear/'> buling </a>  <=    </h3>
+    <h3>    =>  <a href = 'https://www.prlrr.com/newyear/'> buling </a>  <=    </h3>
     <br>
-    <h3>    =>  <a href = 'https://www.opbe.top/wallpaper-API/'> Pictures of the API </a>  <=    </h3>
+    <h3>    =>  <a href = 'https://www.prlrr.com/wallpaper-API/'> Pictures of the API </a>  <=    </h3>
     <br>
     <p>活到老，学到老！！-Never r too old to learn!！！</p>
 
-    <p>知识就是力量-knowledge is power           =>   <a href = 'https://www.opbe.top/'>  Blog  </a>   <=  （IP+1）</p>
+    <p>知识就是力量-knowledge is power           =>   <a href = 'https://www.prlrr.com/'>  Blog  </a>   <=  （IP+1）</p>
     <br>
     <br>
     <p>于2月12日发送（可能存在网络延迟）</p>
